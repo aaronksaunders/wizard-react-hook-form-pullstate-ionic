@@ -1,0 +1,7 @@
+{
+  "name": "wizard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
