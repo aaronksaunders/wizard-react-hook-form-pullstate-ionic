@@ -28,6 +28,7 @@ export const WizardStore = new Store<FormValues>({
   privacyAccepted: "",
   progress: 0,
 });
+
 registerInDevtools({
   WizardStore,
 });

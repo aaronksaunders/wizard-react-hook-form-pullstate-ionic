@@ -35,7 +35,7 @@ setupIonicReact();
 const App: React.FC = () => (
   <IonApp>
     <IonReactRouter>
-      <IonProgressBar value={60}></IonProgressBar>
+      <IonProgressBar value={0}></IonProgressBar>
       <IonRouterOutlet>
         <Route path="/" exact={true}>
           <Redirect to="/step-1" />
