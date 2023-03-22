@@ -1,4 +1,5 @@
-
+### Video Walkthrough 
+- https://youtu.be/IK7yVxyzY_8
 
 ### What Libraies and Frameworks I Used
 - Expo - https://docs.expo.dev/
